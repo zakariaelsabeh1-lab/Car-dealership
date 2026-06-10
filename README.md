@@ -11,7 +11,7 @@ built with **React**, **Framer Motion** and **Lenis** smooth scrolling.
 - **Cinematic hero** — per-letter masked wordmark reveal, parallax backdrop,
   animated scroll cue.
 - **Dark-luxury design system** — near-black palette, gold accents, Playfair
-  Display + Manrope typography, film-grain overlay.
+  Display + Manrope typography.
 - **Curated collection grid** — staggered viewport reveals, hover lift and
   image zoom, spec chips and pricing.
 - **Animated stat counters**, infinite brand marquee, parallax CTA banner.
