@@ -5,9 +5,12 @@ built with **React**, **Framer Motion** and **Lenis** smooth scrolling.
 
 ## Highlights
 
-- **Scroll-driven car assembly** — the centerpiece "Atelier" section shatters a
-  Nissan GT-R photograph into 40 fragments that fly back together as you
-  scroll, settling into the full car with a gold aura and spec reveal.
+- **Scroll-driven car assembly** — the centerpiece "Atelier" section builds a
+  GT-R from its real components as you scroll: chassis, engine, rear
+  transaxle, suspension, titanium exhaust, forged wheels, body shell and
+  carbon wing each fly in on their own scroll window in true assembly order,
+  with stage captions, then the body solidifies over the internals with a
+  gold aura and spec reveal.
 - **Cinematic hero** — per-letter masked wordmark reveal, parallax backdrop,
   animated scroll cue.
 - **Dark-luxury design system** — near-black palette, gold accents, Playfair
